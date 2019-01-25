@@ -5,7 +5,7 @@
 ## About
 It helped me to learn github commands and commit changes in repo
 ## Recommended Tools
-- ( https://github.com/) -Github
+- Github -( https://github.com/)
 - Notepad++
 ## Recommended Resources
 - (https://github.com/noahbuscher/inspire)
