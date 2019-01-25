@@ -1,2 +1,3 @@
 # tlahari
-[Source repo](https://github.com/Thamatamlahari/tlahari)
+[Source repositort](https://github.com/Thamatamlahari/tlahari)
+[hosted page]( https://thamatamlahari.github.io/tlahari/)
